@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
 <!--
 **leonardomrDev/leonardomrDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,10 +6,16 @@
 
 ### puts "A summarized, yet, very explanatory introduction: "
 
+### 🙇 20 years old, System Analysis and Development Student
+### 🌎 Currently living in Balneário Camboriú (SC), Brazil.
 ### 🔭 I’m currently working on improving my Ruby and Python Skills
-### 🌱 I’m currently learning Ruby and Ruby On Rails
+### 🌱 I’m currently learning Ruby On Rails
 ### 👯 I’m looking to collaborate on a few opensource projects for knowledge
-### 📫 How to reach me: [E-Mail](mailto:leonardomr@protonmail.com?subject=[GitHub]%20Leonardo%20Martins)
+<!-- 📫 How to reach me: [E-Mail](mailto:leonardomr@protonmail.com?subject=[GitHub]%20Leonardo%20Martins) -->
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+---------------------------------------------------------------
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 
 ### Connect with me:
 
