@@ -13,7 +13,10 @@
 
 ### Connect with me:
 
-### [instagram]: https://instagram.com/leonardomr8/
-### [linkedin]: https://www.linkedin.com/in/leonardo-martins-593017183/
-### [<img align="left" alt="leonardo-martins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
-### [<img align="left" alt="leonardomr8 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.linkedin.com/in/leonardo-martins-593017183/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/leonardomr8/)
+[![E-Mail](https://img.shields.io/static/v1?label=E-Mail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:leonardomr@protonmail.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardomrDev&theme=chartreuse-dark&show_icons=true)
+---------------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomrDev&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
