@@ -8,14 +8,15 @@
 
 ### 🙇 20 years old, System Analysis and Development Student
 ### 🌎 Currently living in Balneário Camboriú (SC), Brazil.
-### 🔭 I’m currently working on improving my Ruby and Python Skills
-### 🌱 I’m currently learning Ruby On Rails
+### 🔭 I’m currently working on improving my React and Python Skills
+### 🌱 I’m currently learning Python and React
 ### 👯 I’m looking to collaborate on a few opensource projects for knowledge
 <!-- 📫 How to reach me: [E-Mail](mailto:leonardomr@protonmail.com?subject=[GitHub]%20Leonardo%20Martins) -->
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ---------------------------------------------------------------
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) &nbsp;&nbsp;![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+
 
 ### Connect with me:
 
