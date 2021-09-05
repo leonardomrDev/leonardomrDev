@@ -7,9 +7,9 @@
 ### puts "A summarized, yet, very explanatory introduction: "
 
 ### 🙇 20 years old, System Analysis and Development Student
-### 🌎 Currently living in Balneário Camboriú (SC), Brazil.
-### 🔭 I’m currently working on improving my React and Python Skills
-### 🌱 I’m currently learning Python and React
+### 🌎 Currently resides in Balneário Camboriú (SC), Brazil.
+### 🔭 I’m currently working on improving my Cloud Computing and Data Engineering Skills
+### 🌱 I’m currently learning Python
 ### 👯 I’m looking to collaborate on a few opensource projects for knowledge
 <!-- 📫 How to reach me: [E-Mail](mailto:leonardomr@protonmail.com?subject=[GitHub]%20Leonardo%20Martins) -->
 
