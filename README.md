@@ -6,10 +6,10 @@
 
 ### puts "A summarized, yet, very explanatory introduction: "
 
-### 🙇 21 years old, System Analysis and Development Student
-### 🌎 Currently resides in Balneário Camboriú (SC), Brazil.
-### 🔭 I’m currently working on improving my Cloud and Data Engineering Skills
-### 🌱 I’m currently learning Python, AWS and GCP
+### 🙇 22 years old, AWS Cloud Practicioner Certified, Data Analyst @ Compass.uol
+### 🌎 Currently reside in Balneário Camboriú (SC), Brazil.
+### 🔭 Currently working on improving my Cloud and Data Engineering Skills
+### 🌱 Learning Python, AWS and GCP
 ### 👯 I’m looking to collaborate on a few opensource projects for knowledge
 <!-- 📫 How to reach me: [E-Mail](mailto:leonardomr@protonmail.com?subject=[GitHub]%20Leonardo%20Martins) -->
 
