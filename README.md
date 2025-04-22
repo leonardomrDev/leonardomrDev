@@ -6,10 +6,10 @@
 
 ### puts "A summarized, yet, very explanatory introduction: "
 
-### 🙇 22 years old, AWS Cloud Practicioner Certified, Data Analyst @ Compass.uol
+### 🙇 24 years old, Data Analyst, and currently a Data Engineer @ Compass.uol
 ### 🌎 Currently reside in Balneário Camboriú (SC), Brazil.
-### 🔭 Currently working on improving my Cloud and Data Engineering Skills
-### 🌱 Learning Python, AWS and GCP
+### 🔭 Currently working on improving my Databricks, Azure, and Data Engineering Skills
+### 🌱 Learning Python, SQL, Azure, and Databricks
 ### 👯 I’m looking to collaborate on a few opensource projects for knowledge
 <!-- 📫 How to reach me: [E-Mail](mailto:leonardomr@protonmail.com?subject=[GitHub]%20Leonardo%20Martins) -->
 
